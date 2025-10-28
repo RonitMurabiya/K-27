@@ -5,7 +5,7 @@ function Video() {
     <div className="h-full w-full">
       <video
         className="h-full w-full object-cover"
-        src="public/assets/videos/69496b2d.mp4"
+        src="/assets/videos/69496b2d.mp4"
         autoPlay
         loop
         muted

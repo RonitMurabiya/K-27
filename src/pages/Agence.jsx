@@ -9,20 +9,20 @@ function Agence() {
   const imgRef = useRef(null);
 
   const imageArray = [
-    "public/assets/photos/Carl_480x640.jpg",
-    "public/assets/photos/Olivier_480x640.jpg",
-    "public/assets/photos/Lawrence_480x640.jpg",
-    "public/assets/photos/HugoJoseph_480x640.jpg",
-    "public/assets/photos/ChantalG_480x640.jpg",
-    "public/assets/photos/MyleneS_480x640.jpg",
-    "public/assets/photos/SophieA_480x640.jpg",
-    "public/assets/photos/Claire_480x640.jpg",
-    "public/assets/photos/Michele_480X640.jpg",
-    "public/assets/photos/MEL_480X640.jpg",
-    "public/assets/photos/CAMILLE_480X640_2.jpg",
-    "public/assets/photos/MAXIME_480X640_2.jpg",
-    "public/assets/photos/MEGGIE_480X640_2.jpg",
-    "public/assets/photos/joel_480X640_3.jpg",
+    "/assets/photos/Carl_480x640.jpg",
+    "/assets/photos/Olivier_480x640.jpg",
+    "/assets/photos/Lawrence_480x640.jpg",
+    "/assets/photos/HugoJoseph_480x640.jpg",
+    "/assets/photos/ChantalG_480x640.jpg",
+    "/assets/photos/MyleneS_480x640.jpg",
+    "/assets/photos/SophieA_480x640.jpg",
+    "/assets/photos/Claire_480x640.jpg",
+    "/assets/photos/Michele_480X640.jpg",
+    "/assets/photos/MEL_480X640.jpg",
+    "/assets/photos/CAMILLE_480X640_2.jpg",
+    "/assets/photos/MAXIME_480X640_2.jpg",
+    "/assets/photos/MEGGIE_480X640_2.jpg",
+    "/assets/photos/joel_480X640_3.jpg",
   ];
 
   useGSAP(function () {
@@ -60,7 +60,7 @@ function Agence() {
         >
           <img
             ref={imgRef}
-            src="public/assets/photos/Carl_480x640.jpg"
+            src="/assets/photos/Carl_480x640.jpg"
             alt="Agence Image"
             className="object-fill "
           />

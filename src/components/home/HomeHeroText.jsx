@@ -19,7 +19,7 @@ function HomeHeroText() {
         <div className="lg:h-[16vh] h-[6vh] lg:rounded-full rounded-[40px] overflow-hidden ">
           <video
             className="lg:w-[17vw] w-[20vw] h-full object-cover rounded-[40px] lg:rounded-full overflow-hidden"
-            src="public/assets/videos/69496b2d.mp4"
+            src="/assets/videos/69496b2d.mp4"
             autoPlay
             loop
             muted

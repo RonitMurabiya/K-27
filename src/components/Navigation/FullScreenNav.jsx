@@ -122,15 +122,15 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/WS---K72.ca---MenuThumbnail.jpg"
+                  src="/assets/photos/WS---K72.ca---MenuThumbnail.jpg"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap px-6 font-[font2] lg:text-[8vw] text-[15vw] leading-[0.8] lg:pt-5 pt-2 text-center text-black uppercase">
-                  Pour tout voir
+                  Pour tou
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/PJC_SiteK72_Thumbnail_640x290.jpg"
+                  src="/assets/photos/PJC_SiteK72_Thumbnail_640x290.jpg"
                   alt=""
                 />
               </div>
@@ -140,7 +140,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/WS---K72.ca---MenuThumbnail.jpg"
+                  src="/assets/photos/WS---K72.ca---MenuThumbnail.jpg"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap px-6 font-[font2] lg:text-[8vw] text-[15vw] leading-[0.8] lg:pt-5 pt-2 text-center text-black uppercase">
@@ -148,7 +148,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/PJC_SiteK72_Thumbnail_640x290.jpg"
+                  src="/assets/photos/PJC_SiteK72_Thumbnail_640x290.jpg"
                   alt=""
                 />
               </div>
@@ -168,7 +168,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/Michele_640x290.jpg"
+                  src="/assets/photos/Michele_640x290.jpg"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap px-6 font-[font2] lg:text-[8vw] text-[15vw] leading-[0.8] lg:pt-5 pt-2 text-center text-black uppercase">
@@ -176,7 +176,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/SophieA_640X290.jpg"
+                  src="/assets/photos/SophieA_640X290.jpg"
                   alt=""
                 />
               </div>
@@ -186,7 +186,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/Michele_640x290.jpg"
+                  src="/assets/photos/Michele_640x290.jpg"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap px-6 font-[font2] lg:text-[8vw] text-[15vw] leading-[0.8] lg:pt-5 pt-2 text-center text-black uppercase">
@@ -194,7 +194,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/SophieA_640X290.jpg"
+                  src="/assets/photos/SophieA_640X290.jpg"
                   alt=""
                 />
               </div>
@@ -320,7 +320,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/ier.com-16107673482102220.gif"
+                  src="/assets/photos/ier.com-16107673482102220.gif"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap px-6 font-[font2] lg:text-[8vw] text-[15vw] leading-[0.8] lg:pt-5 pt-2 text-center text-black uppercase">
@@ -328,7 +328,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b.png"
+                  src="/assets/photos/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b.png"
                   alt=""
                 />
               </div>
@@ -338,7 +338,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/ier.com-16107673482102220.gif"
+                  src="/assets/photos/ier.com-16107673482102220.gif"
                   alt=""
                 />
                 <h2 className="whitespace-nowrap px-6 font-[font2] lg:text-[8vw] text-[15vw] leading-[0.8] lg:pt-5 pt-2 text-center text-black uppercase">
@@ -346,7 +346,7 @@ const FullScreenNav = () => {
                 </h2>
                 <img
                   className="w-64 shrink-0 object-cover rounded-full h-24"
-                  src="public/assets/photos/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b.png"
+                  src="/assets/photos/50ff59cc0550df5b36543807a58db98c52e01a22274a317eafbfa5266941579b.png"
                   alt=""
                 />
               </div>

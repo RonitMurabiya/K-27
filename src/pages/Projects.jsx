@@ -7,36 +7,36 @@ import { ScrollTrigger } from "gsap/all";
 const Projects = () => {
   const projects = [
     {
-      image1: "public/assets/photos/PJC_SiteK72_Thumbnail_1280x960.jpg",
-      image2: "public/assets/photos/WS---K72.ca---Thumbnail.jpg",
+      image1: "/assets/photos/PJC_SiteK72_Thumbnail_1280x960.jpg",
+      image2: "/assets/photos/WS---K72.ca---Thumbnail.jpg",
     },
     {
-      image1: "public/assets/photos/OKA_thumbnail.jpg",
-      image2: "public/assets/photos/opto_thumbnail2.jpg",
+      image1: "/assets/photos/OKA_thumbnail.jpg",
+      image2: "/assets/photos/opto_thumbnail2.jpg",
     },
     {
-      image1: "public/assets/photos/CF_thumbnail.jpg",
-      image2: "public/assets/photos/thumbnailimage_shelton.jpg",
+      image1: "/assets/photos/CF_thumbnail.jpg",
+      image2: "/assets/photos/thumbnailimage_shelton.jpg",
     },
     {
-      image1: "public/assets/photos/BEST_site_menu_Thumbnail.jpg",
-      image2: "public/assets/photos/thumbnailimage_atable2.jpg",
+      image1: "/assets/photos/BEST_site_menu_Thumbnail.jpg",
+      image2: "/assets/photos/thumbnailimage_atable2.jpg",
     },
     {
-      image1: "public/assets/photos/thumbnailimage_SollioAg.jpg",
-      image2: "public/assets/photos/chalaxeur-thumbnail_img.jpg",
+      image1: "/assets/photos/thumbnailimage_SollioAg.jpg",
+      image2: "/assets/photos/chalaxeur-thumbnail_img.jpg",
     },
     {
-      image1: "public/assets/photos/thumbnail_OSM_1280.jpg",
-      image2: "public/assets/photos/100temps_Thumbnail.jpg",
+      image1: "/assets/photos/thumbnail_OSM_1280.jpg",
+      image2: "/assets/photos/100temps_Thumbnail.jpg",
     },
     {
-      image1: "public/assets/photos/crisis24_behance_1920X1200_cartes.jpg",
-      image2: "public/assets/photos/thumbnailimage_opto.jpg",
+      image1: "/assets/photos/crisis24_behance_1920X1200_cartes.jpg",
+      image2: "/assets/photos/thumbnailimage_opto.jpg",
     },
     {
-      image1: "public/assets/photos/PME-MTL_Thumbnail.jpg",
-      image2: "public/assets/photos/Fruite_thumbnail_bbq.jpg",
+      image1: "/assets/photos/PME-MTL_Thumbnail.jpg",
+      image2: "/assets/photos/Fruite_thumbnail_bbq.jpg",
     },
   ];
 
